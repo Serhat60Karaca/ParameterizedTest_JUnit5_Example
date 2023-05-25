@@ -13,7 +13,7 @@ class CalculatorTest {
 * Student id : B201202058
 * Student name : Serhat KARACA
 * Homework number : Homework 1
-* github repository address : https://github.com/Serhat60Karaca/ParameterizedTest_JUnit5_Example
+* GitHub repository address : https://github.com/Serhat60Karaca/ParameterizedTest_JUnit5_Example
 * */
     @BeforeEach
     void setUp() {
